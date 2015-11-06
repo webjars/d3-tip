@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>d3-tip</artifactId>
-    <version>0.6.7</version>
+    <version>0.6.7-SNAPSHOT</version>
     <name>d3.tip</name>
     <description>WebJar for d3.tip</description>
     <url>http://webjars.org</url>

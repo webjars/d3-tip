@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>d3-tip</artifactId>
-    <version>0.7.0</version>
+    <version>0.7.1-SNAPSHOT</version>
     <name>d3.tip</name>
     <description>WebJar for d3.tip</description>
     <url>http://webjars.org</url>
@@ -52,7 +52,7 @@
         <url>http://github.com/webjars/d3-tip</url>
         <connection>scm:git:https://github.com/webjars/d3-tip.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/d3-tip.git</developerConnection>
-        <tag>d3-tip-0.7.0</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <dependencies>
